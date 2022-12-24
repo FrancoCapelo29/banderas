@@ -1,0 +1,217 @@
+.contenedorgeneral{
+    width: 300px;
+    height: 50px;
+    background: brown;
+    
+
+    
+}
+
+.mundial{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.body{
+    background-color: brown;
+}
+
+
+.equipo{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.rectangulo1{
+    width: 300px;
+    height: 50px;
+    background: blue;
+    
+
+    }
+.rectangulo2{
+    width: 300px;
+    height: 50px;
+    background: white;
+   
+}
+.rectangulo3{
+    width: 300px;
+    height: 50px;
+    background: red;
+    
+}
+
+.nombrefoto{
+    border-radius: 20px;
+}
+
+.partidosjugados{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: 30px;
+    font-weight: 600;
+    text-align: start;
+    text-align: center;
+}
+
+.contenedorpartidos{
+    margin: auto;
+    width: 300px;
+    height: 250px;
+    border-radius: 20px;
+    background: black;
+ 
+
+}
+.rectanguloA{
+    margin-top: 20px;
+    margin-left: 20px;
+    background: green;
+    width: 50px;
+    height: 200px;
+    float: left;
+    
+}
+.rectanguloB{
+    margin-top: 20px;
+    margin-left: 20px;
+    background: green;
+    width: 50px;
+    height: 200px;
+    float: left;
+    
+}
+.rectanguloC{
+    margin-top: 70px;
+    margin-left: 20px;
+    width: 50px;
+    height: 100px;
+    background: red;
+    float: left;
+    
+   
+}
+.ultimopartido{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.contenedorultimopartido{
+    
+    width: 300px;
+    height: 50px;
+    background: brown;
+ position: relative;
+ left: auto;
+}
+.rectanguloA1{
+    width: 100px;
+    height: 20px;
+    background: blue;
+    position: absolute;
+    left: 10px;
+    top: 0;
+
+    }
+.rectanguloB2{
+    width: 100px;
+    height: 20px;
+    background: white;
+    position :absolute;
+    left: 10px;
+    top: 20px;
+}
+.rectanguloC3{
+    width: 100px;
+    height: 20px;
+    background: red;
+    position: absolute;
+    left: 10px;
+    top: 40px;
+
+}
+
+.rectanguloD1{
+    width: 100px;
+    height: 20px;
+    background: rgb(3, 247, 226);
+    position: absolute;
+    left: 200px;
+    top: 1px;
+
+    }
+.rectanguloF2{
+    width: 100px;
+    height: 20px;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    left: 200px;
+    top: 21px;
+
+    
+}
+.rectanguloG3{
+    width: 100px;
+    height: 20px;
+    background: rgb(3, 247, 226);
+    position: absolute;
+    left: 200px;
+    top: 41px;
+    
+}
+.golesrecibidos{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+}
+.contenedorgoles{
+    
+    width: 360px;
+    height: 80px;
+    border-radius: 20px;
+    
+    background:white;
+ position: relative;
+ left: auto;
+flex-direction: column;
+}
+
+.balones1{
+    position: absolute;
+    left: 50px;
+    top: 41px;
+
+}
+.alinear{
+    width: 0px;
+    height: 0px;
+
+    
+}
+.alinear2{
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    left: 200px;
+    top: 41px;
+
+}
+.alinear3{
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    left: 200px;
+    top: 41px;
+}
